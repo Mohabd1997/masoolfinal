@@ -1,0 +1,1 @@
+/var/www/html/script/resources/views/merchant/stat.blade.php
